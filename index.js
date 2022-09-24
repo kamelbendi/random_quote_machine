@@ -3,7 +3,7 @@
 
  const QUOTEBANK = [
     {
-        "quote" : "Don't compare yourself with other people; compare yourself with who you were yesterday ",
+        "quote" : "Don't compare yourself with other people, compare yourself with who you were yesterday ",
         "author" : "Jordan Peterson"
     },
     {
